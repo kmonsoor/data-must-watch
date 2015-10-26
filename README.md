@@ -37,13 +37,6 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
     * Comments:  
 
 
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
-    * Comments: 
-
-
 ## Statistical Methods
 * Chris Fonnesbeck: **Statistical Thinking for Data Science** (SciPy 2015)
     * Video: [youtube](https://www.youtube.com/watch?v=TGGGDpb04Yc) [23:49]
@@ -51,21 +44,8 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
     * [Misc resources](link)
 
 
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
- 
-
-
 
 ## Algorithms
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
-    * 
-
 * Presenter-name: **Title of the video** (Event, Year)
     * Video: [video link] [length-of-video]
     * Slides: [slide link]
@@ -81,12 +61,6 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
     * [Misc resources](link)
     * 
 
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
-    * 
-
 
 
 ## Intro on Hadoop Ecosystem
@@ -94,13 +68,6 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
     * Video: [video link] [length-of-video]
     * Slides: [slide link]
     * [Misc resources](link)
-    * 
-
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
-    * 
     * 
 
 
@@ -134,5 +101,13 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 * Presenter-name: **Title of the video** (Event, Year)
     * Video: [video link] [length-of-video]
     * Slides: [slide link]
-    * [Misc resources](link)
+    * comments
     * 
+
+## Uncategorized
+* Presenter-name: **Title of the video** (Event, Year)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
+    * comments
+    * 
+
