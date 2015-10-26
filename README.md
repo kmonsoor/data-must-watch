@@ -132,3 +132,29 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
     * 
 
 
+## Python-based analysis
+* Presenter-name: **Title of the video** (Event, Year)
+    * Video: [youtube](video-link) [length-of-video]
+    * Slides: [Site-name](slide-link)
+    * [Misc resources](link)
+    * 
+
+* Presenter-name: **Title of the video** (Event, Year)
+    * Video: [youtube](video-link) [length-of-video]
+    * Slides: [Site-name](slide-link)
+    * [Misc resources](link)
+    * 
+
+
+## R-based analysis
+* Presenter-name: **Title of the video** (Event, Year)
+    * Video: [youtube](video-link) [length-of-video]
+    * Slides: [Site-name](slide-link)
+    * [Misc resources](link)
+    * 
+
+* Presenter-name: **Title of the video** (Event, Year)
+    * Video: [youtube](video-link) [length-of-video]
+    * Slides: [Site-name](slide-link)
+    * [Misc resources](link)
+    * 
