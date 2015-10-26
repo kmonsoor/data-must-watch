@@ -105,17 +105,13 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 
 
 ## HDFS
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
-    * 
+* Andrew Collette: **HDF5 is Eating the World** (SciPy 2015)
+    * Video: (Youtube)[https://www.youtube.com/watch?v=nddj5OA8LJo] [18:30]
+    * Slides: 
 
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
-    * 
+* Quincey Koziol: **Title of the video** (2014)
+    * Video: (Youtube)[https://www.youtube.com/watch?v=IN1bqxj4pxE] [1:17:09]
+    * Slides: (mcs.anl.gov)[http://press3.mcs.anl.gov/computingschool/files/2014/01/QKHDF5-Intro-v2.pdf]
 
 
 ## Spark
@@ -125,11 +121,6 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
     * [Misc resources](link)
     * 
 
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
-    * 
 
 
 ## Python-based analysis
@@ -138,20 +129,8 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
     * Slides: [SlideShare](http://www.slideshare.net/wesm/my-data-journey-with-python)
     *  
 
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
-    * 
-
 
 ## R-based analysis
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
-    * 
-
 * Presenter-name: **Title of the video** (Event, Year)
     * Video: [video link] [length-of-video]
     * Slides: [slide link]
