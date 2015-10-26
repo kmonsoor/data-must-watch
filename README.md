@@ -31,29 +31,29 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 
 ## Machine Learning
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * Comments:  
 
 
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * Comments: 
 
 
 ## Statistical Methods
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+* Chris Fonnesbeck: **Statistical Thinking for Data Science** (SciPy 2015)
+    * Video: [youtube](https://www.youtube.com/watch?v=TGGGDpb04Yc) [23:49]
+    * Slides: [slide link]
     * [Misc resources](link)
 
 
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
  
 
@@ -61,14 +61,14 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 
 ## Algorithms
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
@@ -76,14 +76,14 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 
 ## Mathematics
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
@@ -91,14 +91,14 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 
 ## Intro on Hadoop Ecosystem
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
     * 
@@ -106,28 +106,28 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 
 ## HDFS
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
 
 ## Spark
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
@@ -139,21 +139,21 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
     *  
 
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
 
 ## R-based analysis
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
 
 * Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
+    * Video: [video link] [length-of-video]
+    * Slides: [slide link]
     * [Misc resources](link)
     * 
