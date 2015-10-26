@@ -133,11 +133,10 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 
 
 ## Python-based analysis
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [youtube](video-link) [length-of-video]
-    * Slides: [Site-name](slide-link)
-    * [Misc resources](link)
-    * 
+* Wes McKinney: **My Data Journey with Python** (SciPy 2015)
+    * Video: [youtube](https://www.youtube.com/watch?v=kHdkFyGCxiY) [47:45]
+    * Slides: [SlideShare](http://www.slideshare.net/wesm/my-data-journey-with-python)
+    *  
 
 * Presenter-name: **Title of the video** (Event, Year)
     * Video: [youtube](video-link) [length-of-video]
