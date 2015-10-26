@@ -1,8 +1,11 @@
-Must-watch videos about Python
+Must-watch videos on Data Science
 =============
+This list tries to cover from basic introductory staffs to deep analytical staffs on industry-renowned tools.
+Please create pull requests to suggest more awesome links :)
+
 Inspired by [py-must-watch](https://github.com/s16h/py-must-watch). 
 
-Create pull requests to add more awesome links :)
+
 
 ## Intro into Data-science
 * Presenter-name: **Title of the video**
