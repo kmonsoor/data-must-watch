@@ -30,19 +30,14 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 
 
 ## Machine Learning
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * [Misc resources](link)
-    * Comments:  
+* Dr. Andrew Ng: **CS 229: Machine Learning** (Stanford Lecture series 2008)
+    * Video: [https://www.youtube.com/view_play_list?p=A89DCFA6ADACE599] (20 videos, 1+Hr each)
+    * Lecture materials: [Handouts](http://cs229.stanford.edu/materials.html), [course-home](http://cs229.stanford.edu/)
 
 
 ## Statistical Methods
 * Chris Fonnesbeck: **Statistical Thinking for Data Science** (SciPy 2015)
     * Video: [youtube](https://www.youtube.com/watch?v=TGGGDpb04Yc) [23:49]
-    * Slides: [slide link]
-    * [Misc resources](link)
-
 
 
 ## Algorithms
