@@ -59,9 +59,9 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 
 
 ## Intro on Hadoop Ecosystem
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
+*  Bill Graham: **Intro to Hadoop** (Part of BerkeleyiSchool course Info290:"Analyzing Big Data With Twitter", 2012)
+    * Video: [https://www.youtube.com/watch?v=t3fEGhE-HYA] [1:22:26]
+    * Slides: [http://blogs.ischool.berkeley.edu/i290-abdt-s12/files/2012/08/BillGraham_IntroToHadoop_Aug30.pdf]
     * [Misc resources](link)
     * 
 
