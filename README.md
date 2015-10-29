@@ -96,7 +96,11 @@ Thanks !
 * Wes McKinney: **My Data Journey with Python** (SciPy 2015)
     * Video: [youtube](https://www.youtube.com/watch?v=kHdkFyGCxiY) [47:45]
     * Slides: [SlideShare](http://www.slideshare.net/wesm/my-data-journey-with-python)
-    *  
+* Sarah Guido: **Hands-on Data Analysis with Python** (PyCon 2015)
+    * Video: [Youtube](https://www.youtube.com/watch?v=L4Hbv4ugUWk) [2:54:57]
+* Jonathan Rocher: **Analyzing and Manipulating Data with Pandas** (SciPy 2015 Tutorial )
+    * Video: [Youtube](https://www.youtube.com/watch?v=0CFFTJUZ2dc)
+    * [Exercise and tutorial instructions](https://github.com/jonathanrocher/pandas_tutorial)
 
 
 ## R-based analysis
