@@ -100,11 +100,10 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 
 
 ## R-based analysis
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * comments
-    * 
+* David Langer: **Introduction to Data Science with R - Data Analysis** (2014)
+    * Video: [https://www.youtube.com/watch?v=32o0DnuRjfg&index=1&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF] [1:21:49]
+    * Source code: [https://github.com/EasyD/IntroToDataScience]
+    * This is the first video of a two-part tutorial. 
 
 ## Uncategorized
 * Presenter-name: **Title of the video** (Event, Year)
