@@ -97,7 +97,9 @@ Inspired by [py-must-watch](https://github.com/s16h/py-must-watch).
 * Jonathan Rocher: **Analyzing and Manipulating Data with Pandas** (SciPy 2015 Tutorial )
     * Video: [Youtube](https://www.youtube.com/watch?v=0CFFTJUZ2dc)
     * [Exercise and tutorial instructions](https://github.com/jonathanrocher/pandas_tutorial)
-
+* Andreas Mueller & Kyle Kastner: **Machine Learning with Scikit Learn** (SciPy 2015 Tutorial)
+    * Video: [Part I](https://www.youtube.com/watch?v=80fZrVMurPM), [Part II](https://www.youtube.com/watch?v=Ud-FsEWegmA)
+    * [Tutorial Materials](https://github.com/amueller/scipy_2015_sklearn_tutorial)
 
 ## R-based analysis
 * David Langer: **Introduction to Data Science with R - Data Analysis** (2014)
