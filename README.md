@@ -101,14 +101,15 @@ Thanks !
 * Jonathan Rocher: **Analyzing and Manipulating Data with Pandas** (SciPy 2015 Tutorial )
     * Video: [Youtube](https://www.youtube.com/watch?v=0CFFTJUZ2dc)
     * [Exercise and tutorial instructions](https://github.com/jonathanrocher/pandas_tutorial)
-
+* Andreas Mueller & Kyle Kastner: **Machine Learning with Scikit Learn** (SciPy 2015 Tutorial)
+    * Video: [Part I](https://www.youtube.com/watch?v=80fZrVMurPM), [Part II](https://www.youtube.com/watch?v=Ud-FsEWegmA)
+    * [Tutorial Materials](https://github.com/amueller/scipy_2015_sklearn_tutorial)
 
 ## R-based analysis
-* Presenter-name: **Title of the video** (Event, Year)
-    * Video: [video link] [length-of-video]
-    * Slides: [slide link]
-    * comments
-    * 
+* David Langer: **Introduction to Data Science with R - Data Analysis** (2014)
+    * Video: [https://www.youtube.com/watch?v=32o0DnuRjfg&index=1&list=PLTJTBoU5HOCRrTs3cJK-PbHM39cwCU0PF] [1:21:49]
+    * Source code: [https://github.com/EasyD/IntroToDataScience]
+    * This is the first video of a two-part tutorial. 
 
 ## Uncategorized
 * Presenter-name: **Title of the video** (Event, Year)
