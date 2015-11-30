@@ -40,6 +40,9 @@ Thanks !
 * [Dr. Yaser S. Abu-Mostafa](https://work.caltech.edu/index.html): **Learning from Data** (from Caltech) 
     * Lecture materials: [Handouts/Videos/Homeworks](https://work.caltech.edu/telecourse.html)
     * Comments: A self-paced advanced course on Machine Learning
+* Jake VanderPlas: Machine Learning with Scikit-Learn (I) (PyCon 2015)
+    * Video: [youtube](https://www.youtube.com/watch?v=L7R4HUQ-eQ0)[3:02:11]
+    * Lecture materials: [codes](https://github.com/jakevdp/sklearn_pycon2015), [IPython Notebook](http://nbviewer.ipython.org/github/jakevdp/sklearn_pycon2015/blob/master/notebooks/Index.ipynb)
 
 
 ## Statistical Methods
@@ -67,9 +70,8 @@ Thanks !
 
 ## Intro on Hadoop Ecosystem
 *  Bill Graham: **Intro to Hadoop** (Part of BerkeleyiSchool course Info290:"Analyzing Big Data With Twitter", 2012)
-    * Video: [https://www.youtube.com/watch?v=t3fEGhE-HYA] [1:22:26]
-    * Slides: [http://blogs.ischool.berkeley.edu/i290-abdt-s12/files/2012/08/BillGraham_IntroToHadoop_Aug30.pdf]
-    * [Misc resources](link)
+    * Video: [youtube](https://www.youtube.com/watch?v=t3fEGhE-HYA) [1:22:26]
+    * Slides: [presentation](http://blogs.ischool.berkeley.edu/i290-abdt-s12/files/2012/08/BillGraham_IntroToHadoop_Aug30.pdf)
     * 
 
 
